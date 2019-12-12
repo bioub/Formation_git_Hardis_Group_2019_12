@@ -9,7 +9,7 @@
 * `git log`
 * `git diff`
 
-## Rebase interactif
+## Réécrire l'historique
 
 * `git rebase -i --root`
 * `git rebase -i db857c9`
